@@ -1,0 +1,73 @@
+<recipe>
+  <title>Mild Chicken Curry (Sauce Only)</title>
+  <subtitle>Thermomix TM7 adaptation of Gousto #1995 (no rice)</subtitle>
+  <portions>2</portions>
+  <total_time>00:20:00</total_time>
+  <appliance>Thermomix TM7</appliance>
+  <tags>
+    <tag>curry</tag>
+    <tag>chicken</tag>
+    <tag>mild</tag>
+    <tag>weeknight</tag>
+  </tags>
+
+  <ingredients>
+    <item qty="2" unit="pcs">chicken breasts, diced (approx. 250 g each)</item>
+    <item qty="1" unit="pcs">brown onion, halved</item>
+    <item qty="2" unit="cloves">garlic</item>
+    <item qty="15" unit="g">fresh ginger, peeled</item>
+    <item qty="1" unit="tbsp">tomato paste</item>
+    <item qty="1" unit="tsp">ground turmeric</item>
+    <item qty="1" unit="tbsp">garam masala</item>
+    <item qty="1" unit="sachet">chicken stock mix (or ½ cube)</item>
+    <item qty="250" unit="g">boiling water</item>
+    <item qty="1" unit="tsp">sugar</item>
+    <item qty="2" unit="tbsp">clotted cream (or crème fraîche)</item>
+    <item qty="1" unit="tbsp">vegetable oil</item>
+    <item qty="1" unit="pinch">salt</item>
+    <item qty="2" unit="pcs">tomatoes, roughly chopped</item>
+  </ingredients>
+
+  <steps>
+    <step number="1" title="Chop aromatics">
+      <instruction>Add onion (halved), garlic and ginger to mixing bowl. Chop.</instruction>
+      <settings temperature="none" speed="5" time="00:00:05" reverse="false" measuring_cup="on"/>
+      <note>Scrape down sides.</note>
+    </step>
+
+    <step number="2" title="Sauté base">
+      <instruction>Add vegetable oil and a pinch of salt. Sauté.</instruction>
+      <settings temperature="120" speed="1" time="00:03:00" reverse="false" measuring_cup="off" basket_on_lid="true"/>
+    </step>
+
+    <step number="3" title="Add chicken">
+      <instruction>Optional: insert Butterfly. Add diced chicken. Sauté until just coloured.</instruction>
+      <settings temperature="120" speed="1" time="00:02:00" reverse="true" measuring_cup="on"/>
+    </step>
+
+    <step number="4" title="Spices & paste">
+      <instruction>Add turmeric, garam masala and tomato paste. Cook to bloom spices.</instruction>
+      <settings temperature="120" speed="1" time="00:01:00" reverse="true" measuring_cup="on"/>
+    </step>
+
+    <step number="5" title="Tomatoes & stock">
+      <instruction>Add chopped tomatoes, chicken stock, boiling water and sugar. Cook.</instruction>
+      <settings temperature="100" speed="1" time="00:10:00" reverse="true" measuring_cup="off" basket_on_lid="true"/>
+      <note>Check chicken is cooked through; extend 2–3 min if needed.</note>
+    </step>
+
+    <step number="6" title="Finish with cream">
+      <instruction>Remove Butterfly (if used). Add clotted cream and mix to combine.</instruction>
+      <settings temperature="none" speed="2" time="00:00:20" reverse="true" measuring_cup="on"/>
+    </step>
+
+    <step number="7" title="Serve">
+      <instruction>Serve the mild chicken curry over your cooked rice of choice.</instruction>
+    </step>
+  </steps>
+
+  <notes>
+    <note>For 4 servings: double all ingredients. Keep times and speeds the same.</note>
+    <note>MC = measuring cup. Basket on lid prevents splatter during sauté/simmer.</note>
+  </notes>
+</recipe>
